@@ -1,0 +1,9 @@
+.changer{
+    width: 400px;
+    height: 400px;
+    background-color: green;
+    transition: 1s ease-in-out;
+}
+.changer:hover{
+    background-color: pink;
+}

@@ -1,0 +1,9 @@
+
+button{
+    font-size: 40px;
+    font-family: sans-serif;
+    background-color: cadetblue;
+    border-radius: 10px;
+    border: 1px solid rgb(138, 129, 129);
+    color: white;
+}

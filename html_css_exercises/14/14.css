@@ -1,0 +1,18 @@
+#speech{
+    width: 120px;
+    height: 80px;
+    background-color: #5ac;
+    position: absolute;
+    left: 100px;
+    border-radius: 10px;
+}
+#speech::before{
+    content: "";
+    width: 0;
+    height: 0;
+    position: absolute;
+    margin: 13px 0 0 -25px;
+    border-top: 13px solid transparent;
+    border-right: 26px solid #5ac;
+    border-bottom: 13px solid transparent;
+}
